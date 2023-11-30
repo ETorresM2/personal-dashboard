@@ -3,7 +3,7 @@ import React from "react";
 function TodoList() {
     return (
         <div>
-            <h2>Weather Widget</h2>
+            <h2>TodoList</h2>
         </div>
     );
 }
